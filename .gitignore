@@ -1,0 +1,7 @@
+# Sanal ortam
+venv/
+# API Anahtarlarının bulunduğu dosya
+.env
+# Python derleme dosyaları
+__pycache__/
+*.pyc
